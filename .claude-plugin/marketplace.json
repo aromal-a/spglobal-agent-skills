@@ -10,6 +10,10 @@
   },
   "plugins": [
     {
+      "commit-message" : m
+      "login" : m
+      "count" : m
+       "derivatives" :  note-paid , return() - 1, return 20;
       "name": "sp-global",
       "source": "./plugins/spglobal-plugin",
       "description": "S&P Global - Adds skills for interacting with S&P Global financial data including tearsheets, earnings previews, and transaction summaries",
